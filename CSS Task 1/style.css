@@ -1,0 +1,14 @@
+.a {
+    background-color: yellow;
+}
+.one #first {
+    border: 1px solid black;
+}
+.one #second {
+    border: 1px solid black;
+    background-color: red;
+}
+.three #third {
+    border: 1px solid black;
+    background-color: green;
+}

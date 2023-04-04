@@ -1,0 +1,27 @@
+.div2 {
+    background-color: yellow;
+}
+#first {
+    border: 7px solid blueviolet;
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
+#one {
+    background-color: blue;
+    display: inline;
+}
+#three {
+    background-color: red;
+    display: block;
+}
+#four {
+    color: red;
+}
+#five {
+    background-color: green;
+    display: block;
+}
+#tag2 {
+    background-color: yellow;
+}
